@@ -17,7 +17,7 @@ void sendData(bool eye, bool jaw)
 {
 	sentLast++;
 	if (sentLast>=sendVal) {
-		auto uri = ref new Uri("http://raspberrypi.local/webdrive.php?eye=" + eye + "&jaw=" + jaw);
+		auto uri = ref new Uri("http://raspberrypi.local/webdrive.php?eye=" + eye + "&jaw=" + jaw); // raspberrypi.local requires mDNS, i.e. Bonjour
 		auto httpClient = ref new HttpClient();
 
 		httpClient->GetStringAsync(uri);
