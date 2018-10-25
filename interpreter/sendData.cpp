@@ -24,7 +24,7 @@ void sendData(bool eye, bool jaw)
 	
 	//if its okay to send
 	if (sentLast>=sendVal) {
-		//open a http client at raspberrypi.local (gotten from Bonjour) with the values of eye and jaw
+		//open a http client at raspberrypi.local (got from Bonjour) with the values of eye and jaw
 		auto uri = ref new Uri("http://raspberrypi.local/webdrive.php?eye=" + eye + "&jaw=" + jaw);
 		// raspberrypi.local requires mDNS, i.e. Bonjour
 		auto httpClient = ref new HttpClient();
