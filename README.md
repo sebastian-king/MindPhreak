@@ -1,6 +1,7 @@
 # MindPhreak
 
 *Our official HackUTA 2018 submission, write-up & media can be found on [DevPost](https://devpost.com/software/mindphreak).*
+
 After seeing the hardware on offer to us, we decided to push the boundaries of what we could make.
 
 ## The device
