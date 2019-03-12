@@ -1,8 +1,8 @@
+<img src="https://raw.githubusercontent.com/sebastian-king/MindPhreak/master/MindPhreak.png" width="75"/>
+
 # MindPhreak
 
 *Our official HackUTA 2018 submission, write-up & media can be found on [DevPost](https://devpost.com/software/mindphreak).*
-
-<img src="https://raw.githubusercontent.com/sebastian-king/MindPhreak/master/MindPhreak.png" width="200"/>
 
 After seeing the hardware on offer to us, we decided to push the boundaries of what we could make.
 
