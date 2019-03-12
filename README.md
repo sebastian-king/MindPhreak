@@ -21,7 +21,8 @@ Our second biggest challenge was, of course, to interpret the headset data. The 
 
 We're proud of our adversity, diligence, and our ability to weave this project together.
 
-### The Team
+## The Team
 We're a team of four undergraduate students from the University of North Texas, studying computer science and engineering.
 
-The possibilities are endless for MindPhreak.
+## The Future
+The possibilities are endless for MindPhreak. Together we are always trying to automate and improve lives, every time we can automate a daily task we make it more accessible for people with disabilities. The Robot we created can be controlled by quadraplegics. Eventually, it can be used to drive a wheelchair just with thoughts. 
